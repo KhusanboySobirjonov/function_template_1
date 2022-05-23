@@ -1,0 +1,14 @@
+1. ===> №37. Haqiqiy qiymat qaytaruvchi Power(A, B) funksiyasi shablonini
+hosil qiling. Funksiya AB darajasi qiymatini qaytarsin. Shu funksiya orqali
+berilgan A1, A2, A3 sonlarining B darajasi topilsin. A, A1, A2, A3, B haqiqiy
+sonlar.
+2. ===> №38. Haqiqiy qiymat qaytaruvchi Power2(A, N) funksiyasi shablonini
+hosil qiling. Funksiyada AN darajasi qiymati quyidagi formula asosida topilsin.
+Shu funksiya orqali berilgan A sonining N, M, K darajalari topilsin. A0 = 1; Agar
+N > 0 bo’lsa, AN = A * A * … * A (N ta ko’payuvchi). Agar A < 0 bo’lsa, AN =
+1 / (A * A * … * A) (|N| ta ko’payuvchi). A haqiqiy, N, M , K butun sonlar.
+3. ===> №39. Haqiqiy qiymat qaytaruvchi Power3(A, N) funksiyasi shablonini
+hosil qiling. Funksiyada AN darajasi qiymati quyidagicha topilsin. Agar N
+sonining kasr qismi 0 dan farqli bo’lsa, Power(A, B) funksiyasi chaqirilsin. Aks
+xolda Power2(A, N) sunksiyasi chaqirilsin. Shu funksiya orqali berilgan A
+sonining N, M, K darajalari topilsin. A, N, M , K butun sonlar.
